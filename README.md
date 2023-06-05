@@ -1,1 +1,1 @@
-# Bayesian_LR
+# Bayesian Linear Regression Implementation
